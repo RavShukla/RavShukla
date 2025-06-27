@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies:
+### 🛠️ Languages & Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -36,13 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
 </p>
+
+---
+
+### 🧩 What I’m Exploring Now:
+- 🧠 Improving logical thinking with **Data Structures & Algorithms**
+- 🌐 Designing better UIs with **HTML, CSS & JavaScript**
+- 📊 Exploring **Machine Learning models** through real projects
+- 🎭 Honing soft skills through theatre, podcasting, and presentations
+- 🚀 Staying consistent on GitHub to build a developer habit
 
 ---
 
@@ -62,25 +71,13 @@
 
 ---
 
-### 🏆 Achievements:
-- ✅ Built personal projects like **Khana Khazana (Food Delivery Website)**
-- 🎙️ Hosted podcast and participated in **National School of Drama (NSD)**
-- 📌 Delivered a **solo AI pitch** (Object Detection)
-- 🏋️ Balancing **tech, fitness, and creativity**
+### 🏆 Highlights:
+- 🚀 Built projects like **Khana Khazana (Food Delivery Website)**
+- 🎙️ Hosted podcast & participated in **NSD activities**
+- 🧠 Built an **Object Detection Model** & pitched it solo
+- 🧩 Balancing creativity with code and continuous learning
 
 ---
 
-### 🚀 Future Goals:
-- Build a personal & family portfolio website  
-- Contribute to open-source projects  
-- Win at least 2 hackathons per semester  
-- Land an AI/ML internship by 4th semester  
-- Stay consistent with gym, code & growth  
+> “Code like an engineer. Think like an artist. Grind like an athlete.” — Gaurav Shukla
 
----
-
-> "Code like an engineer. Think like an artist. Grind like an athlete." — Gaurav Shukla
-
----
-
-Would you like me to deploy this as your actual README now or save it as a downloadable `.md` file?
