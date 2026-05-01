@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/ravshukla?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+--
 
 ### 🔥 About Me
 - 🎓 I'm currently pursuing **B.Tech in AI & Data Science**
